@@ -155,8 +155,7 @@ The SPFx component is maintained as a separate portfolio project/repository.
 
 ## Power BI
 
-Power BI provides the analytics layer for operational visibility and can report on request volume, status, priority, department, turnaround, assignment, and completion trends.
-
+The solution architecture includes Power BI as the planned analytics layer for operational reporting on request volume, status, priority, department, assignment, turnaround, and completion trends
 ## Implementation Approach
 
 1. Gather requirements and map the existing request lifecycle.
